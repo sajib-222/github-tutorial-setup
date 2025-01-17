@@ -1,2 +1,2 @@
-#demo
-checking out some github things
+demo
+checking out some GitHub things
