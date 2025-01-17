@@ -1,3 +1,6 @@
 # demo checking out some GitHub things
+some descriptions in this section for more information regarding my project
 ## This thing file will be for checking new features in my GitHub
-## And this is for personal setting
+nothing overly new just trying things out out of learning or curiosity
+## And this is for a personal setting
+
